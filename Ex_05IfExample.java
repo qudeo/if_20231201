@@ -1,5 +1,7 @@
 package ch04_if;
 
+import java.util.Scanner;
+
 public class Ex_05IfExample {
 
 	public static void main(String[] args) {
